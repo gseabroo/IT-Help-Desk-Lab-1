@@ -35,4 +35,4 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 ! [Interface Name](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Interface%20Name.png)
 
 ### I then ran a command that allowed me to disable the interface. Shortly after, I tested the ping command to see if the command had worked successfully and you can see that it did. Once I confirmed that it worked, I enabled the interface and ran the ran command again. The ping command was successful the second time around.
-! [Ping Results]()
+! [Ping Results](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/PIng%20Results.png)
