@@ -39,7 +39,7 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 
 ## Step 4 - Network Troubleshooting
 ### I ran the 'ipconfig' command to show what my IPv4 address, subnet mask and default gateway are that is attached to my network.
-! [IpConfig Default]()
+! [IpConfig Default](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/IpConfig%20Default.png)
 
 ### I then used the 'netsh' command to manually set up my IPv4 address, subnet mask and defauklt gateway. Once I manually set those up, I used the 'ping' command to see if I could reach Google (8.8.8.8) with the manual addresses I gace my network. The 'ping' command was unsuccesful.
 ! [IpConfig Manual]()
