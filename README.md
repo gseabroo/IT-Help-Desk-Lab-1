@@ -45,4 +45,4 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 ! [IpConfig Manual](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/IpConfig%20Manual.png)
 
 ### Once I saw that the 'ping' command was unsuccessful, I used the 'netsh' command to use DHCP to automatically assign my IP address and network configuration. Once the command was ran, my addresses were set back to their defaults. I ran the 'ping' command again and it was successful.
-! [Successful Ping]()
+! [Successful Ping](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Successful%20Ping.png)
