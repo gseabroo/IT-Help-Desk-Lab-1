@@ -16,7 +16,7 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 
 ## Step 2 - Simulate Account Issues
 ### From the first screenshot, you can see on the left side of the screen that I have three users: jdoe, asmith and testuser.
-! [User Accounts]()
+! [User Accounts](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/User%20Accounts.png)
 
 ### Then I ran a command that allowed me to deactivate the user name jdoe. There is proof that the command worked successfully when you look and see that jdoe isn't a viable user anymore.
 ! [Deactivate]()
