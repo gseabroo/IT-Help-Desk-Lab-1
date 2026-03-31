@@ -28,4 +28,4 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 
 ### Once I reset the password, I tried to use the old password to see if the command worked and it was successful. I then used the new password to login and it was successful which you can see by the second screenshot.
 ! [Failed Login](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Failed%20Login.png)
-! [Successful Login]()
+! [Successful Login](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Succesful%20Login.png)
