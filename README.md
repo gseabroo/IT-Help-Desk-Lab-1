@@ -23,7 +23,7 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 ! [No JDoe](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/No%20Jdoe.png)
 
 ### After I confirmed that the command was successful, I then ran a seperate command to reactivate the account of JDoe. I also then gave JDoe a completely new password.
-! [Activate]()
+! [Activate](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Activate.png)
 ! [Password Reset]()
 
 ### Once I reset the password, I tried to use the old password to see if the command worked and it was successful. I then used the new password to login and it was successful which you can see by the second screenshot.
