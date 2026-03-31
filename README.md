@@ -42,7 +42,7 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 ! [IpConfig Default](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/IpConfig%20Default.png)
 
 ### I then used the 'netsh' command to manually set up my IPv4 address, subnet mask and defauklt gateway. Once I manually set those up, I used the 'ping' command to see if I could reach Google (8.8.8.8) with the manual addresses I gace my network. The 'ping' command was unsuccesful.
-! [IpConfig Manual]()
+! [IpConfig Manual](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/IpConfig%20Manual.png)
 
 ### Once I saw that the 'ping' command was unsuccessful, I used the 'netsh' command to use DHCP to automatically assign my IP address and network configuration. Once the command was ran, my addresses were set back to their defaults. I ran the 'ping' command again and it was successful.
 ! [Successful Ping]()
