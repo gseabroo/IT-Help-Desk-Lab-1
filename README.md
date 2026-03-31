@@ -20,7 +20,7 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 
 ### Then I ran a command that allowed me to deactivate the user name jdoe. There is proof that the command worked successfully when you look and see that jdoe isn't a viable user anymore.
 ! [Deactivate](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Deactivate.png)
-! [No JDoe]()
+! [No JDoe](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/No%20Jdoe.png)
 
 ### After I confirmed that the command was successful, I then ran a seperate command to reactivate the account of JDoe. I also then gave JDoe a completely new password.
 ! [Activate]()
