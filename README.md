@@ -31,8 +31,18 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 ! [Successful Login](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Succesful%20Login.png)
 
 ## Step 3 - Simulate Hardware Issue
-### You can see that I ran a command that shows me the name of my interface, what state it is in, what type of interface it is and if it is enabled or not.
+### You can see that I ran the 'netsh' command that shows me the name of my interface, what state it is in, what type of interface it is and if it is enabled or not.
 ! [Interface Name](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Interface%20Name.png)
 
-### I then ran a command that allowed me to disable the interface. Shortly after, I tested the ping command to see if the command had worked successfully and you can see that it did. Once I confirmed that it worked, I enabled the interface and ran the ran command again. The ping command was successful the second time around.
+### I then ran the 'netsh' command that allowed me to disable the interface. Shortly after, I tested the 'ping' command to see if the command had worked successfully and you can see that it did. Once I confirmed that it worked, I enabled the interface and ran the ran command again. The ping command was successful the second time around.
 ! [Ping Results](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/PIng%20Results.png)
+
+## Step 4 - Network Troubleshooting
+### I ran the 'ipconfig' command to show what my IPv4 address, subnet mask and default gateway are that is attached to my network.
+! [IpConfig Default]()
+
+### I then used the 'netsh' command to manually set up my IPv4 address, subnet mask and defauklt gateway. Once I manually set those up, I used the 'ping' command to see if I could reach Google (8.8.8.8) with the manual addresses I gace my network. The 'ping' command was unsuccesful.
+! [IpConfig Manual]()
+
+### Once I saw that the 'ping' command was unsuccessful, I used the 'netsh' command to use DHCP to automatically assign my IP address and network configuration. Once the command was ran, my addresses were set back to their defaults. I ran the 'ping' command again and it was successful.
+! [Successful Ping]()
