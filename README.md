@@ -1,4 +1,5 @@
 # IT-Help-Desk-Lab-1
+I built a hands-on IT help desk lab using a Windows virtual machine. I used command-line tools to manage user accounts, reset passwords, and simulate account lockouts. I configured file permissions using icacls, troubleshot network issues using ipconfig and ping, and simulated hardware failures by disabling network interfaces. I documented everything in a GitHub repository with screenshots.
 
 # Screenshots
 ## Created User Accounts
