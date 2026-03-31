@@ -32,7 +32,7 @@ I built a hands-on IT help desk lab using a Windows virtual machine. I used comm
 
 ## Step 3 - Simulate Hardware Issue
 ### You can see that I ran a command that shows me the name of my interface, what state it is in, what type of interface it is and if it is enabled or not.
-! [Interface Name]()
+! [Interface Name](https://github.com/gseabroo/IT-Help-Desk-Lab-1/blob/main/Interface%20Name.png)
 
 ### I then ran a command that allowed me to disable the interface. Shortly after, I tested the ping command to see if the command had worked successfully and you can see that it did. Once I confirmed that it worked, I enabled the interface and ran the ran command again. The ping command was successful the second time around.
-! [Ping Command]()
+! [Ping Results]()
